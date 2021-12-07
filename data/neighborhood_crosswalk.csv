@@ -1,0 +1,26 @@
+original neighborhood,new neighborhood code,xwalk original to new
+East Boston,1,East Boston
+Charlestown,2,"Charleston, Back Bay, Beacon Hill, Downtown, NorthEnd, West End, Chinatown, Leather District, Bay Village"
+West End,2,"Charleston, Back Bay, Beacon Hill, Downtown, NorthEnd, West End, Chinatown, Leather District, Bay Village"
+Beacon Hill,2,"Charleston, Back Bay, Beacon Hill, Downtown, NorthEnd, West End, Chinatown, Leather District, Bay Village"
+Downtown,2,"Charleston, Back Bay, Beacon Hill, Downtown, NorthEnd, West End, Chinatown, Leather District, Bay Village"
+North End,2,"Charleston, Back Bay, Beacon Hill, Downtown, NorthEnd, West End, Chinatown, Leather District, Bay Village"
+Leather District,2,"Charleston, Back Bay, Beacon Hill, Downtown, NorthEnd, West End, Chinatown, Leather District, Bay Village"
+Chinatown,2,"Charleston, Back Bay, Beacon Hill, Downtown, NorthEnd, West End, Chinatown, Leather District, Bay Village"
+Bay Village,2,"Charleston, Back Bay, Beacon Hill, Downtown, NorthEnd, West End, Chinatown, Leather District, Bay Village"
+Back Bay,2,"Charleston, Back Bay, Beacon Hill, Downtown, NorthEnd, West End, Chinatown, Leather District, Bay Village"
+South End,3,South End
+Roxbury,4,"Fenway, Longwood, Roxbury, Mission Hill"
+Fenway,4,"Fenway, Longwood, Roxbury, Mission Hill"
+Mission Hill,4,"Fenway, Longwood, Roxbury, Mission Hill"
+Longwood,4,"Fenway, Longwood, Roxbury, Mission Hill"
+South Boston,5,"South Boston, South Boston Waterfront"
+South Boston Waterfront,5,"South Boston, South Boston Waterfront"
+Jamaica Plain,6,Jamaica Plain
+Roslindale,7,Roslindale
+West Roxbury,8,West Roxbury
+Hyde Park,9,Hyde Park
+Mattapan,10,Mattapan
+Brighton,11,"Allston, Brighton"
+Allston,11,"Allston, Brighton"
+Dorchester,12,Dorchester

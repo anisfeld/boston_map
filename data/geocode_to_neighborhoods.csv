@@ -1,0 +1,864 @@
+geocode,neighborhoodid,neighborhoodname,neighborhoodid2
+0,24,South Boston,5
+1,12,East Boston,1
+2,12,East Boston,1
+3,12,East Boston,1
+4,12,East Boston,1
+5,12,East Boston,1
+6,12,East Boston,1
+7,12,East Boston,1
+8,12,East Boston,1
+9,12,East Boston,1
+10,12,East Boston,1
+11,12,East Boston,1
+12,12,East Boston,1
+13,12,East Boston,1
+14,12,East Boston,1
+15,12,East Boston,1
+16,12,East Boston,1
+17,12,East Boston,1
+18,12,East Boston,1
+19,12,East Boston,1
+20,12,East Boston,1
+21,12,East Boston,1
+22,12,East Boston,1
+23,12,East Boston,1
+24,12,East Boston,1
+25,12,East Boston,1
+26,12,East Boston,1
+27,12,East Boston,1
+28,12,East Boston,1
+29,12,East Boston,1
+30,12,East Boston,1
+31,12,East Boston,1
+32,12,East Boston,1
+33,12,East Boston,1
+34,12,East Boston,1
+35,12,East Boston,1
+36,12,East Boston,1
+37,13,Charlestown,2
+38,13,Charlestown,2
+39,13,Charlestown,2
+40,13,Charlestown,2
+41,13,Charlestown,2
+42,13,Charlestown,2
+43,13,Charlestown,2
+44,13,Charlestown,2
+45,13,Charlestown,2
+46,13,Charlestown,2
+47,13,Charlestown,2
+48,13,Charlestown,2
+49,13,Charlestown,2
+50,13,Charlestown,2
+51,13,Charlestown,2
+52,13,Charlestown,2
+53,13,Charlestown,2
+54,13,Charlestown,2
+55,13,Charlestown,2
+56,13,Charlestown,2
+57,13,Charlestown,2
+58,13,Charlestown,2
+59,13,Charlestown,2
+60,13,Charlestown,2
+61,13,Charlestown,2
+62,14,West End,2
+63,14,West End,2
+64,14,West End,2
+65,14,West End,2
+66,15,Beacon Hill,2
+67,15,Beacon Hill,2
+68,15,Beacon Hill,2
+69,15,Beacon Hill,2
+70,15,Beacon Hill,2
+71,15,Beacon Hill,2
+72,16,Downtown,2
+73,16,Downtown,2
+74,14,West End,2
+75,14,West End,2
+76,14,West End,2
+77,16,Downtown,2
+78,16,Downtown,2
+79,14,West End,2
+80,8,North End,2
+81,8,North End,2
+82,8,North End,2
+83,8,North End,2
+84,8,North End,2
+85,8,North End,2
+86,8,North End,2
+87,8,North End,2
+88,8,North End,2
+89,8,North End,2
+90,8,North End,2
+91,8,North End,2
+92,16,Downtown,2
+93,16,Downtown,2
+94,16,Downtown,2
+95,16,Downtown,2
+96,16,Downtown,2
+97,16,Downtown,2
+98,16,Downtown,2
+99,16,Downtown,2
+100,16,Downtown,2
+101,16,Downtown,2
+102,16,Downtown,2
+103,16,Downtown,2
+104,16,Downtown,2
+105,16,Downtown,2
+106,16,Downtown,2
+107,16,Downtown,2
+108,16,Downtown,2
+109,16,Downtown,2
+110,16,Downtown,2
+111,16,Downtown,2
+112,16,Downtown,2
+113,16,Downtown,2
+114,16,Downtown,2
+115,6,Leather District,2
+116,7,Chinatown,2
+117,16,Downtown,2
+118,16,Downtown,2
+119,15,Beacon Hill,2
+120,15,Beacon Hill,2
+121,16,Downtown,2
+122,16,Downtown,2
+123,7,Chinatown,2
+124,7,Chinatown,2
+125,5,Bay Village,2
+126,5,Bay Village,2
+127,7,Chinatown,2
+128,5,Bay Village,2
+129,11,Back Bay,2
+130,11,Back Bay,2
+131,11,Back Bay,2
+132,11,Back Bay,2
+133,11,Back Bay,2
+134,11,Back Bay,2
+135,11,Back Bay,2
+136,11,Back Bay,2
+137,11,Back Bay,2
+138,11,Back Bay,2
+139,11,Back Bay,2
+140,11,Back Bay,2
+141,11,Back Bay,2
+142,11,Back Bay,2
+143,11,Back Bay,2
+144,11,Back Bay,2
+145,11,Back Bay,2
+146,11,Back Bay,2
+147,10,South End,3
+148,10,South End,3
+149,10,South End,3
+150,10,South End,3
+151,10,South End,3
+152,10,South End,3
+153,10,South End,3
+154,10,South End,3
+155,10,South End,3
+156,10,South End,3
+157,10,South End,3
+158,10,South End,3
+159,10,South End,3
+160,10,South End,3
+161,10,South End,3
+162,10,South End,3
+163,10,South End,3
+164,10,South End,3
+165,10,South End,3
+166,10,South End,3
+167,10,South End,3
+168,10,South End,3
+169,10,South End,3
+170,10,South End,3
+171,10,South End,3
+172,10,South End,3
+173,16,Downtown,2
+174,24,South Boston,5
+175,24,South Boston,5
+176,24,South Boston,5
+177,24,South Boston,5
+178,9,Roxbury,4
+179,9,Roxbury,4
+180,9,Roxbury,4
+181,9,Roxbury,4
+182,9,Roxbury,4
+183,22,Dorchester,12
+184,22,Dorchester,12
+185,22,Dorchester,12
+186,22,Dorchester,12
+187,22,Dorchester,12
+188,22,Dorchester,12
+189,22,Dorchester,12
+190,24,South Boston,5
+191,24,South Boston,5
+192,24,South Boston,5
+193,24,South Boston,5
+194,24,South Boston,5
+195,24,South Boston,5
+196,24,South Boston,5
+197,24,South Boston,5
+198,24,South Boston,5
+199,24,South Boston,5
+200,24,South Boston,5
+201,24,South Boston,5
+202,24,South Boston,5
+203,23,South Boston Waterfront,5
+204,23,South Boston Waterfront,5
+205,23,South Boston Waterfront,5
+206,23,South Boston Waterfront,5
+207,23,South Boston Waterfront,5
+209,23,South Boston Waterfront,5
+210,23,South Boston Waterfront,5
+211,24,South Boston,5
+212,24,South Boston,5
+213,24,South Boston,5
+214,24,South Boston,5
+215,24,South Boston,5
+216,24,South Boston,5
+217,24,South Boston,5
+218,24,South Boston,5
+219,24,South Boston,5
+220,24,South Boston,5
+221,24,South Boston,5
+222,24,South Boston,5
+223,24,South Boston,5
+224,24,South Boston,5
+225,24,South Boston,5
+226,24,South Boston,5
+227,24,South Boston,5
+228,24,South Boston,5
+229,24,South Boston,5
+230,24,South Boston,5
+231,24,South Boston,5
+232,24,South Boston,5
+233,24,South Boston,5
+234,24,South Boston,5
+235,22,Dorchester,12
+236,22,Dorchester,12
+237,22,Dorchester,12
+238,22,Dorchester,12
+239,22,Dorchester,12
+240,22,Dorchester,12
+241,22,Dorchester,12
+242,22,Dorchester,12
+243,22,Dorchester,12
+244,22,Dorchester,12
+245,22,Dorchester,12
+246,22,Dorchester,12
+247,22,Dorchester,12
+248,22,Dorchester,12
+249,22,Dorchester,12
+250,22,Dorchester,12
+251,22,Dorchester,12
+252,22,Dorchester,12
+253,22,Dorchester,12
+254,22,Dorchester,12
+255,22,Dorchester,12
+256,22,Dorchester,12
+257,22,Dorchester,12
+258,22,Dorchester,12
+259,22,Dorchester,12
+260,9,Roxbury,4
+261,9,Roxbury,4
+262,9,Roxbury,4
+263,9,Roxbury,4
+264,9,Roxbury,4
+265,9,Roxbury,4
+266,9,Roxbury,4
+267,9,Roxbury,4
+268,9,Roxbury,4
+269,9,Roxbury,4
+270,9,Roxbury,4
+271,9,Roxbury,4
+272,9,Roxbury,4
+273,9,Roxbury,4
+274,9,Roxbury,4
+275,9,Roxbury,4
+276,9,Roxbury,4
+277,9,Roxbury,4
+278,9,Roxbury,4
+279,9,Roxbury,4
+280,9,Roxbury,4
+281,9,Roxbury,4
+282,9,Roxbury,4
+283,17,Fenway,4
+284,9,Roxbury,4
+285,9,Roxbury,4
+286,9,Roxbury,4
+287,9,Roxbury,4
+288,9,Roxbury,4
+289,9,Roxbury,4
+290,9,Roxbury,4
+291,9,Roxbury,4
+292,9,Roxbury,4
+293,9,Roxbury,4
+294,9,Roxbury,4
+295,9,Roxbury,4
+296,9,Roxbury,4
+297,9,Roxbury,4
+298,9,Roxbury,4
+299,9,Roxbury,4
+300,9,Roxbury,4
+301,9,Roxbury,4
+302,9,Roxbury,4
+303,2,Jamaica Plain,6
+304,9,Roxbury,4
+305,9,Roxbury,4
+306,9,Roxbury,4
+307,9,Roxbury,4
+308,9,Roxbury,4
+309,9,Roxbury,4
+310,9,Roxbury,4
+311,9,Roxbury,4
+312,9,Roxbury,4
+313,9,Roxbury,4
+314,9,Roxbury,4
+315,9,Roxbury,4
+316,9,Roxbury,4
+317,9,Roxbury,4
+318,9,Roxbury,4
+319,9,Roxbury,4
+320,9,Roxbury,4
+321,9,Roxbury,4
+322,9,Roxbury,4
+323,9,Roxbury,4
+324,9,Roxbury,4
+325,9,Roxbury,4
+326,22,Dorchester,12
+327,9,Roxbury,4
+328,22,Dorchester,12
+329,22,Dorchester,12
+330,22,Dorchester,12
+331,22,Dorchester,12
+332,22,Dorchester,12
+333,22,Dorchester,12
+334,22,Dorchester,12
+335,22,Dorchester,12
+336,22,Dorchester,12
+337,22,Dorchester,12
+338,22,Dorchester,12
+339,22,Dorchester,12
+340,22,Dorchester,12
+341,22,Dorchester,12
+342,22,Dorchester,12
+343,22,Dorchester,12
+344,22,Dorchester,12
+345,22,Dorchester,12
+346,22,Dorchester,12
+347,22,Dorchester,12
+348,22,Dorchester,12
+349,22,Dorchester,12
+350,22,Dorchester,12
+351,22,Dorchester,12
+352,22,Dorchester,12
+353,22,Dorchester,12
+354,22,Dorchester,12
+355,22,Dorchester,12
+356,22,Dorchester,12
+357,22,Dorchester,12
+358,22,Dorchester,12
+359,22,Dorchester,12
+360,22,Dorchester,12
+361,22,Dorchester,12
+362,22,Dorchester,12
+363,22,Dorchester,12
+364,22,Dorchester,12
+365,22,Dorchester,12
+366,22,Dorchester,12
+367,22,Dorchester,12
+368,22,Dorchester,12
+369,22,Dorchester,12
+370,22,Dorchester,12
+371,22,Dorchester,12
+373,22,Dorchester,12
+374,22,Dorchester,12
+375,22,Dorchester,12
+376,22,Dorchester,12
+377,22,Dorchester,12
+378,22,Dorchester,12
+379,22,Dorchester,12
+380,22,Dorchester,12
+381,22,Dorchester,12
+382,22,Dorchester,12
+383,22,Dorchester,12
+384,22,Dorchester,12
+385,22,Dorchester,12
+386,22,Dorchester,12
+387,22,Dorchester,12
+388,22,Dorchester,12
+389,22,Dorchester,12
+390,22,Dorchester,12
+391,22,Dorchester,12
+392,22,Dorchester,12
+393,22,Dorchester,12
+394,22,Dorchester,12
+395,22,Dorchester,12
+396,22,Dorchester,12
+397,22,Dorchester,12
+398,22,Dorchester,12
+399,22,Dorchester,12
+400,22,Dorchester,12
+401,22,Dorchester,12
+402,22,Dorchester,12
+403,22,Dorchester,12
+404,21,Mattapan,10
+405,21,Mattapan,10
+406,21,Mattapan,10
+407,21,Mattapan,10
+408,21,Mattapan,10
+409,21,Mattapan,10
+410,21,Mattapan,10
+411,21,Mattapan,10
+412,21,Mattapan,10
+413,21,Mattapan,10
+414,21,Mattapan,10
+415,22,Dorchester,12
+416,22,Dorchester,12
+417,22,Dorchester,12
+418,22,Dorchester,12
+419,22,Dorchester,12
+420,21,Mattapan,10
+421,21,Mattapan,10
+422,21,Mattapan,10
+423,21,Mattapan,10
+424,21,Mattapan,10
+425,21,Mattapan,10
+426,21,Mattapan,10
+427,21,Mattapan,10
+428,21,Mattapan,10
+429,22,Dorchester,12
+430,22,Dorchester,12
+431,22,Dorchester,12
+432,22,Dorchester,12
+433,22,Dorchester,12
+434,22,Dorchester,12
+435,22,Dorchester,12
+436,22,Dorchester,12
+437,22,Dorchester,12
+438,22,Dorchester,12
+439,22,Dorchester,12
+440,22,Dorchester,12
+441,22,Dorchester,12
+442,22,Dorchester,12
+443,22,Dorchester,12
+444,22,Dorchester,12
+445,22,Dorchester,12
+446,22,Dorchester,12
+447,22,Dorchester,12
+448,22,Dorchester,12
+449,22,Dorchester,12
+450,22,Dorchester,12
+451,22,Dorchester,12
+452,22,Dorchester,12
+453,22,Dorchester,12
+454,22,Dorchester,12
+455,22,Dorchester,12
+456,22,Dorchester,12
+457,22,Dorchester,12
+458,22,Dorchester,12
+459,22,Dorchester,12
+460,22,Dorchester,12
+461,22,Dorchester,12
+462,22,Dorchester,12
+463,22,Dorchester,12
+464,22,Dorchester,12
+465,22,Dorchester,12
+466,21,Mattapan,10
+467,21,Mattapan,10
+468,21,Mattapan,10
+469,21,Mattapan,10
+470,21,Mattapan,10
+471,21,Mattapan,10
+472,21,Mattapan,10
+473,21,Mattapan,10
+474,21,Mattapan,10
+475,21,Mattapan,10
+476,21,Mattapan,10
+477,21,Mattapan,10
+478,20,Hyde Park,9
+479,21,Mattapan,10
+480,21,Mattapan,10
+481,21,Mattapan,10
+482,21,Mattapan,10
+483,20,Hyde Park,9
+484,20,Hyde Park,9
+485,20,Hyde Park,9
+486,20,Hyde Park,9
+487,20,Hyde Park,9
+488,20,Hyde Park,9
+489,20,Hyde Park,9
+490,20,Hyde Park,9
+491,20,Hyde Park,9
+492,20,Hyde Park,9
+493,20,Hyde Park,9
+494,20,Hyde Park,9
+495,20,Hyde Park,9
+496,20,Hyde Park,9
+497,20,Hyde Park,9
+498,1,Roslindale,7
+499,1,Roslindale,7
+500,1,Roslindale,7
+501,1,Roslindale,7
+502,1,Roslindale,7
+503,1,Roslindale,7
+504,2,Jamaica Plain,6
+505,2,Jamaica Plain,6
+506,2,Jamaica Plain,6
+507,2,Jamaica Plain,6
+508,2,Jamaica Plain,6
+509,2,Jamaica Plain,6
+510,2,Jamaica Plain,6
+511,20,Hyde Park,9
+512,20,Hyde Park,9
+513,20,Hyde Park,9
+514,20,Hyde Park,9
+515,20,Hyde Park,9
+516,20,Hyde Park,9
+517,20,Hyde Park,9
+518,20,Hyde Park,9
+519,20,Hyde Park,9
+520,20,Hyde Park,9
+521,20,Hyde Park,9
+522,20,Hyde Park,9
+523,20,Hyde Park,9
+524,20,Hyde Park,9
+525,20,Hyde Park,9
+526,20,Hyde Park,9
+527,20,Hyde Park,9
+528,20,Hyde Park,9
+529,20,Hyde Park,9
+530,20,Hyde Park,9
+531,20,Hyde Park,9
+532,20,Hyde Park,9
+533,20,Hyde Park,9
+534,20,Hyde Park,9
+535,20,Hyde Park,9
+536,20,Hyde Park,9
+537,20,Hyde Park,9
+538,20,Hyde Park,9
+539,20,Hyde Park,9
+540,20,Hyde Park,9
+541,20,Hyde Park,9
+542,20,Hyde Park,9
+543,20,Hyde Park,9
+544,20,Hyde Park,9
+545,20,Hyde Park,9
+546,20,Hyde Park,9
+547,20,Hyde Park,9
+548,1,Roslindale,7
+549,19,West Roxbury,8
+550,1,Roslindale,7
+551,1,Roslindale,7
+552,1,Roslindale,7
+553,1,Roslindale,7
+554,1,Roslindale,7
+555,1,Roslindale,7
+556,1,Roslindale,7
+557,1,Roslindale,7
+558,1,Roslindale,7
+559,1,Roslindale,7
+560,1,Roslindale,7
+561,1,Roslindale,7
+562,1,Roslindale,7
+563,1,Roslindale,7
+564,1,Roslindale,7
+565,2,Jamaica Plain,6
+566,9,Roxbury,4
+567,9,Roxbury,4
+568,9,Roxbury,4
+569,2,Jamaica Plain,6
+570,2,Jamaica Plain,6
+571,2,Jamaica Plain,6
+572,2,Jamaica Plain,6
+573,2,Jamaica Plain,6
+574,2,Jamaica Plain,6
+575,2,Jamaica Plain,6
+576,2,Jamaica Plain,6
+577,2,Jamaica Plain,6
+578,2,Jamaica Plain,6
+579,2,Jamaica Plain,6
+580,2,Jamaica Plain,6
+581,2,Jamaica Plain,6
+582,2,Jamaica Plain,6
+583,2,Jamaica Plain,6
+584,3,Mission Hill,4
+585,3,Mission Hill,4
+586,3,Mission Hill,4
+587,3,Mission Hill,4
+588,3,Mission Hill,4
+589,3,Mission Hill,4
+590,17,Fenway,4
+591,17,Fenway,4
+592,4,Longwood,4
+593,4,Longwood,4
+594,17,Fenway,4
+595,17,Fenway,4
+596,17,Fenway,4
+597,9,Roxbury,4
+598,11,Back Bay,2
+599,17,Fenway,4
+600,3,Mission Hill,4
+601,3,Mission Hill,4
+602,3,Mission Hill,4
+603,3,Mission Hill,4
+604,3,Mission Hill,4
+605,3,Mission Hill,4
+606,3,Mission Hill,4
+607,2,Jamaica Plain,6
+608,2,Jamaica Plain,6
+609,2,Jamaica Plain,6
+610,2,Jamaica Plain,6
+611,3,Mission Hill,4
+612,4,Longwood,4
+613,4,Longwood,4
+614,4,Longwood,4
+615,4,Longwood,4
+616,4,Longwood,4
+617,17,Fenway,4
+618,17,Fenway,4
+619,17,Fenway,4
+620,17,Fenway,4
+621,11,Back Bay,2
+622,17,Fenway,4
+623,17,Fenway,4
+624,17,Fenway,4
+625,17,Fenway,4
+626,17,Fenway,4
+627,17,Fenway,4
+628,17,Fenway,4
+629,17,Fenway,4
+630,17,Fenway,4
+631,17,Fenway,4
+632,17,Fenway,4
+633,2,Jamaica Plain,6
+634,2,Jamaica Plain,6
+635,2,Jamaica Plain,6
+636,2,Jamaica Plain,6
+637,2,Jamaica Plain,6
+638,2,Jamaica Plain,6
+639,2,Jamaica Plain,6
+640,2,Jamaica Plain,6
+641,2,Jamaica Plain,6
+642,2,Jamaica Plain,6
+643,2,Jamaica Plain,6
+644,2,Jamaica Plain,6
+645,2,Jamaica Plain,6
+646,2,Jamaica Plain,6
+647,2,Jamaica Plain,6
+648,2,Jamaica Plain,6
+649,2,Jamaica Plain,6
+650,2,Jamaica Plain,6
+651,2,Jamaica Plain,6
+653,2,Jamaica Plain,6
+654,2,Jamaica Plain,6
+655,2,Jamaica Plain,6
+656,2,Jamaica Plain,6
+657,2,Jamaica Plain,6
+658,19,West Roxbury,8
+659,19,West Roxbury,8
+660,19,West Roxbury,8
+661,1,Roslindale,7
+662,1,Roslindale,7
+663,1,Roslindale,7
+664,1,Roslindale,7
+665,2,Jamaica Plain,6
+666,2,Jamaica Plain,6
+667,1,Roslindale,7
+668,1,Roslindale,7
+669,19,West Roxbury,8
+670,1,Roslindale,7
+671,2,Jamaica Plain,6
+672,1,Roslindale,7
+673,1,Roslindale,7
+674,1,Roslindale,7
+675,1,Roslindale,7
+676,1,Roslindale,7
+677,19,West Roxbury,8
+678,19,West Roxbury,8
+679,1,Roslindale,7
+680,1,Roslindale,7
+681,1,Roslindale,7
+682,1,Roslindale,7
+683,1,Roslindale,7
+684,1,Roslindale,7
+685,1,Roslindale,7
+686,1,Roslindale,7
+687,1,Roslindale,7
+688,19,West Roxbury,8
+689,19,West Roxbury,8
+690,19,West Roxbury,8
+691,19,West Roxbury,8
+692,19,West Roxbury,8
+693,19,West Roxbury,8
+694,19,West Roxbury,8
+695,19,West Roxbury,8
+696,19,West Roxbury,8
+697,19,West Roxbury,8
+698,19,West Roxbury,8
+699,19,West Roxbury,8
+700,19,West Roxbury,8
+701,19,West Roxbury,8
+702,19,West Roxbury,8
+703,19,West Roxbury,8
+704,19,West Roxbury,8
+705,19,West Roxbury,8
+706,19,West Roxbury,8
+707,19,West Roxbury,8
+708,19,West Roxbury,8
+709,19,West Roxbury,8
+710,19,West Roxbury,8
+711,19,West Roxbury,8
+712,19,West Roxbury,8
+713,19,West Roxbury,8
+714,19,West Roxbury,8
+715,19,West Roxbury,8
+716,19,West Roxbury,8
+717,19,West Roxbury,8
+718,19,West Roxbury,8
+719,19,West Roxbury,8
+720,19,West Roxbury,8
+721,19,West Roxbury,8
+722,19,West Roxbury,8
+723,19,West Roxbury,8
+724,19,West Roxbury,8
+725,19,West Roxbury,8
+726,19,West Roxbury,8
+727,19,West Roxbury,8
+728,19,West Roxbury,8
+730,19,West Roxbury,8
+731,19,West Roxbury,8
+732,19,West Roxbury,8
+733,19,West Roxbury,8
+734,19,West Roxbury,8
+735,19,West Roxbury,8
+736,19,West Roxbury,8
+737,19,West Roxbury,8
+738,19,West Roxbury,8
+739,19,West Roxbury,8
+740,19,West Roxbury,8
+741,19,West Roxbury,8
+742,19,West Roxbury,8
+743,19,West Roxbury,8
+744,19,West Roxbury,8
+745,19,West Roxbury,8
+747,19,West Roxbury,8
+748,19,West Roxbury,8
+749,18,Brighton,11
+750,18,Brighton,11
+751,18,Brighton,11
+752,18,Brighton,11
+753,18,Brighton,11
+754,18,Brighton,11
+755,18,Brighton,11
+756,18,Brighton,11
+757,18,Brighton,11
+758,18,Brighton,11
+759,18,Brighton,11
+760,18,Brighton,11
+761,18,Brighton,11
+762,18,Brighton,11
+763,18,Brighton,11
+764,18,Brighton,11
+765,18,Brighton,11
+766,18,Brighton,11
+767,18,Brighton,11
+768,18,Brighton,11
+769,18,Brighton,11
+770,18,Brighton,11
+771,18,Brighton,11
+772,18,Brighton,11
+773,18,Brighton,11
+774,18,Brighton,11
+775,18,Brighton,11
+776,18,Brighton,11
+777,18,Brighton,11
+778,18,Brighton,11
+779,18,Brighton,11
+780,18,Brighton,11
+781,18,Brighton,11
+782,25,Allston,11
+783,25,Allston,11
+784,18,Brighton,11
+785,18,Brighton,11
+786,18,Brighton,11
+787,18,Brighton,11
+788,18,Brighton,11
+789,18,Brighton,11
+790,18,Brighton,11
+791,18,Brighton,11
+792,18,Brighton,11
+793,25,Allston,11
+794,25,Allston,11
+795,25,Allston,11
+796,25,Allston,11
+797,25,Allston,11
+798,25,Allston,11
+799,25,Allston,11
+800,25,Allston,11
+801,25,Allston,11
+802,25,Allston,11
+803,25,Allston,11
+804,18,Brighton,11
+805,18,Brighton,11
+806,18,Brighton,11
+807,18,Brighton,11
+808,18,Brighton,11
+809,25,Allston,11
+810,25,Allston,11
+811,25,Allston,11
+812,18,Brighton,11
+813,25,Allston,11
+814,25,Allston,11
+815,25,Allston,11
+816,25,Allston,11
+817,22,Dorchester,12
+818,1,Roslindale,7
+819,22,Dorchester,12
+820,25,Allston,11
+821,19,West Roxbury,8
+822,19,West Roxbury,8
+823,22,Dorchester,12
+824,12,East Boston,1
+825,20,Hyde Park,9
+826,19,West Roxbury,8
+827,20,Hyde Park,9
+828,1,Roslindale,7
+829,21,Mattapan,10
+830,22,Dorchester,12
+831,21,Mattapan,10
+832,21,Mattapan,10
+833,22,Dorchester,12
+834,22,Dorchester,12
+835,22,Dorchester,12
+836,22,Dorchester,12
+837,22,Dorchester,12
+838,9,Roxbury,4
+839,22,Dorchester,12
+840,22,Dorchester,12
+841,22,Dorchester,12
+842,22,Dorchester,12
+843,22,Dorchester,12
+844,2,Jamaica Plain,6
+845,2,Jamaica Plain,6
+846,9,Roxbury,4
+847,9,Roxbury,4
+848,3,Mission Hill,4
+849,3,Mission Hill,4
+850,3,Mission Hill,4
+851,9,Roxbury,4
+852,10,South End,3
+853,24,South Boston,5
+854,18,Brighton,11
+855,12,East Boston,1
+856,12,East Boston,1
+857,12,East Boston,1
+858,2,Jamaica Plain,6
+859,22,Dorchester,12
+860,22,Dorchester,12
+861,22,Dorchester,12
+862,21,Mattapan,10
+863,2,Jamaica Plain,6
+864,19,West Roxbury,8
+865,22,Dorchester,12
+866,22,Dorchester,12
+867,22,Dorchester,12
